@@ -82,3 +82,28 @@ main > .main_article > a
         width: 30%;
         float: left;
     }
+#company_footer_section_2
+    {
+        width: 70%;
+        float: left;
+    }
+#company_footer_section_2 > aside
+    {
+       width: 30%;
+       float: left; 
+    }
+#company_footer_section_2 > article
+    {
+       width: 30%; 
+       float: left;
+    }
+#company_footer_section_2 > section
+    {
+        width: 40%;
+        float: left;
+    }
+#company_footer_section_2 > section > a > img
+    {
+      width: 20%; 
+      margin: 5%; 
+    }
