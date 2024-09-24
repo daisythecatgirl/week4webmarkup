@@ -1,0 +1,44 @@
+*
+    {
+    border: 0;
+    margin: 0;
+    padding: 0;
+    background-color: #fff;
+    }
+body
+    {      
+        width: 800px;
+        margin:auto;
+    }
+img 
+    {
+        width: 100px;
+    }
+
+
+    #mainmenu > a
+    {
+        width: 20%;
+        height: 100%;
+        float: left;
+    }
+#mainmenu > a > img
+    {
+        display: block;
+        margin: auto;
+        height: 100%;
+    }
+#mainmenu > ul > li
+    {
+        display: inline;
+    }
+#mainmenu > form
+    {
+        width: 20%;
+        line-height: 7en;
+        float: left;
+    }
+#mainmenu > form > h3
+    {
+        text-align: center;
+    }
