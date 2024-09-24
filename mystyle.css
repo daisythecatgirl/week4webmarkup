@@ -42,3 +42,43 @@ img
     {
         text-align: center;
     }
+
+#company_payoff
+    {
+        clear: both;
+        padding-top: 2en;
+        padding-bottom: 2en;
+    }
+
+#company_payoff > h1, #company_payoff > h2
+    {
+        text-align: center;
+        text-transform: uppercase;
+    }
+
+main
+    {
+        clear: both;
+        width: 100%;
+    }
+main > .main_article
+    {
+        width: 50%;
+        float: left;
+    }
+main > .main_article > a
+    {
+        float: left;
+    }
+
+#company_footer
+    {
+        clear: both;
+        width: 100%;
+    }
+
+#company_footer_section_1
+    {
+        width: 30%;
+        float: left;
+    }
